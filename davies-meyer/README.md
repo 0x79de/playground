@@ -1,4 +1,4 @@
 
 
-davies-meyer methor rust implementation
+davies-meyer method rust implementation
 
